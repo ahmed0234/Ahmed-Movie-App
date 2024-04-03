@@ -1,0 +1,10 @@
+.Nav{
+    scrollbar-width: none;
+    -ms-overflow-style:none;
+    scroll-behavior: smooth;
+}
+
+.Nav::-webkit-scrollbar {
+    display: none;
+    scroll-behavior: smooth;
+  }
